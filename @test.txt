@@ -1,1 +1,7 @@
 This is my first update in GitHub
+
+with certain operations that make as follows:
+1- install Git
+2- create account in GitHub
+3- create a new repository
+4- commit with GitBush
